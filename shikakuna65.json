@@ -1,7 +1,7 @@
 {
   "name": "SHIKAKUNA65",
-  "vendorId": "0xFE5D",
-  "productId": "0x0050",
+  "vendorId": "0xFEF5",
+  "productId": "0x0001",
   "matrix": { "rows": 6, "cols":11 },
   "layouts": {
     "keymap": [
